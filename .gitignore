@@ -1,0 +1,17 @@
+# Virtual environment
+emotion_music_env/
+
+# Large datasets
+fer2013/
+
+# Archives
+archive.zip
+
+# Logs
+app_errors.log
+
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
